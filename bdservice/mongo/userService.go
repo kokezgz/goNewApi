@@ -1,7 +1,7 @@
 package mongo
 
 import (
-	"../utils/log"
+	"github.com/Koke/BC/bdservice/utils/log"
 	"golang.org/x/crypto/bcrypt"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"

@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"../setting"
+	"github.com/Koke/BC/bdservice/utils/setting"
 )
 
 const Trace = 99

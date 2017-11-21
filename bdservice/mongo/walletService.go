@@ -1,7 +1,8 @@
 package mongo
 
 import (
-	"../utils/log"
+	"github.com/Koke/BC/bdservice/utils/log"
+
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )

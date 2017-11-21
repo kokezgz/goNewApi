@@ -5,8 +5,8 @@ import (
 
 	"gopkg.in/mgo.v2"
 
-	"../utils/log"
-	"../utils/setting"
+	"github.com/Koke/BC/bdservice/utils/log"
+	"github.com/Koke/BC/bdservice/utils/setting"
 )
 
 type IMongoService interface {

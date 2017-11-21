@@ -4,7 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"../mongo"
+	"github.com/Koke/BC/bdservice/mongo"
+
 	"github.com/gorilla/mux"
 )
 

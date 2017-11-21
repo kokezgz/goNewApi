@@ -4,8 +4,9 @@ import (
 	"net/http"
 	"time"
 
-	"../mongo"
-	"../utils/log"
+	"github.com/Koke/BC/bdservice/mongo"
+	"github.com/Koke/BC/bdservice/utils/log"
+
 	"github.com/gorilla/mux"
 )
 

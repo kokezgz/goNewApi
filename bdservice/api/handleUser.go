@@ -6,7 +6,7 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"../mongo"
+	"github.com/Koke/BC/bdservice/mongo"
 )
 
 func (c *Controller) handleUsers(w http.ResponseWriter, r *http.Request) {

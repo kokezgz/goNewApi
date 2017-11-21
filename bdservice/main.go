@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"./pkg/api"
+	"github.com/Koke/BC/bdservice/api"
 )
 
 func main() {
